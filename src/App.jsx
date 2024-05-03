@@ -12,6 +12,9 @@ const App = () => {
       </div>
 
       <button className=' bg-sky-500 mt-2 text-center text-white p-2 rounded-2xl hover:bg-white hover:text-black dark:to-blue-500'>Buy Now</button>
+        <div className='text-white sm:text-red-500 md:text-green-700'>
+          <p className='text-center my-4'>Lorem inpsums dollor.</p>
+        </div>
       </body>
     </>
   )
